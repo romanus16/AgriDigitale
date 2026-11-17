@@ -225,4 +225,4 @@ flutter build ios --release
 
 ## 📄 Licence
 
-Ce projet est privé. Tous droits réservés.
+Licence MIT
